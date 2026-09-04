@@ -1,0 +1,12 @@
+Employee Expense Policy
+
+Employees can claim reimbursement for approved business expenses.
+
+Department: Finance
+Document Type: Expense Policy
+Date: 2026-03-05
+Access Level: Manager
+
+All expense claims must be submitted within 30 days.
+
+Receipts are required for expenses above the specified company limit.
